@@ -1,6 +1,10 @@
+.text{
+    font-size: 20px;
+}
+
 #header_title{
     font-size: 75px;
-    margin: 0;
+    margin: 0px;
 }
 
 #editor-info{
@@ -16,10 +20,31 @@
     font-size: 15px;
 }
 
-.text{
-    font-size: 20px;
-}
+/* /head */
 
 #list{
     padding-inline-start: 15px;
 }
+
+/* /list */
+
+table { 
+    border-spacing: 0;
+    border-collapse: collapse;
+    width: 100%;
+    
+}
+#thead{
+    color: white;
+    background-color:#3399ff;
+}
+
+.tr-blue{
+    background-color: #b3d9ff;
+}
+
+td{
+    padding: 15px 0px;
+}
+
+
