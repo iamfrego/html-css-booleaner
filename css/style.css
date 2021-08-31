@@ -7,7 +7,7 @@
     margin: 0px;
 }
 
-#editor-info{
+.graytext{
     color: darkgrey;
     font-size: 20px;
 }
@@ -43,8 +43,10 @@ table {
     background-color: #b3d9ff;
 }
 
-td{
-    padding: 15px 0px;
-}
 
+
+
+#monitor{
+    background-image: url(..\img\logo.svg);
+}
 
