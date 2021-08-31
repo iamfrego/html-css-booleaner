@@ -3,7 +3,6 @@
 }
 
 #logo{
-
     width: 200px;
 }
 
@@ -29,6 +28,16 @@
 
 #date{
     font-size: 15px;
+}
+
+#photo{
+    width: 100%;
+    
+}
+
+
+#tiny-text{
+    font-size: 13px;
 }
 
 /* /head */
@@ -59,7 +68,7 @@ table {
     width: 300px;
 }
 
-
+/* /table */
 
 
 #monitor{
