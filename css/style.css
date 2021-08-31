@@ -4,6 +4,7 @@
 
 #logo{
     width: 200px;
+    margin-top: 50px;
 }
 
 #site_header{
@@ -28,11 +29,6 @@
 
 #date{
     font-size: 15px;
-}
-
-#photo{
-    width: 100%;
-    
 }
 
 
