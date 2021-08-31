@@ -1,0 +1,17 @@
+#header_title{
+    font-size: 75px;
+    margin: 0;
+}
+
+#editor-info{
+    color: darkgrey;
+    font-size: 20px;
+}
+
+#editor{
+    color: #3399ff;
+}
+
+#date{
+    font-size: 15px;
+}
