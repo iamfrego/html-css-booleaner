@@ -15,3 +15,11 @@
 #date{
     font-size: 15px;
 }
+
+.text{
+    font-size: 20px;
+}
+
+#list{
+    padding-inline-start: 15px;
+}
