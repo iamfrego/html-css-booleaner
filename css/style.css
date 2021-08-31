@@ -2,6 +2,15 @@
     font-size: 20px;
 }
 
+#logo{
+    width: 200px;
+}
+
+#site_header{
+    background-image: url(..\img\pattern.png);
+    background-color: #3399ff;
+}
+
 #header_title{
     font-size: 75px;
     margin: 0px;
