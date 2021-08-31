@@ -3,12 +3,14 @@
 }
 
 #logo{
+
     width: 200px;
 }
 
 #site_header{
-    background-image: url(..\img\pattern.png);
+    background-image: url(../img/pattern.png);
     background-color: #3399ff;
+    height: 100px;
 }
 
 #header_title{
@@ -46,16 +48,33 @@ table {
 #thead{
     color: white;
     background-color:#3399ff;
+    text-align: left;
 }
 
 .tr-blue{
     background-color: #b3d9ff;
 }
 
+.th-short{
+    width: 300px;
+}
+
 
 
 
 #monitor{
-    background-image: url(..\img\logo.svg);
+    background-image: url(../img/monitor.jpg);
+    background-repeat: no-repeat;
+    height: 200px;
 }
 
+#graph{
+    background-image: url(../img/graph.jpg);
+    background-repeat: no-repeat;
+    height: 200px;
+}
+
+#caption{
+    color:white;
+    font-size: 30px;
+}
